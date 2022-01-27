@@ -1,0 +1,4 @@
+mljar-mercury
+rich
+pandas
+matplotlib
