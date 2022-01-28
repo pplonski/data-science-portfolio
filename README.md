@@ -2,6 +2,10 @@
 
 Data Science Portfolio website contructed from Jupyter notebooks and served with [Mercury](https://github.com/mljar/mercury).
 
+### :computer: Demo
+
+Demo is running at Heroku free dyno at http://piotr-data-science-portfolio.herokuapp.com.
+
 <p align="left" >
   <img 
     alt="Mercury Custom Welcome Message"
@@ -16,10 +20,6 @@ There are thre notebooks served. Each notebooks is interactive - they have YAML 
 - [Show image](https://github.com/pplonski/data-science-portfolio/blob/main/show_image_notebook.ipynb) - it accpets image file and display it. 
 
 :warning: The GitHub is not displaying the **RAW** cells when preview notebooks in GitHub. It is the best to clone the repo and open it in Jupyter Notebook/Lab.
-
-### :computer: Demo
-
-Demo is running at Heroku free dyno at http://piotr-data-science-portfolio.herokuapp.com.
 
 ### Run locally
 
